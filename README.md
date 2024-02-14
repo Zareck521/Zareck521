@@ -1,6 +1,10 @@
 Hi 👋 My name is Jimmy Wells
 ============================
 
+
+![Jimmy Logo Smaller](https://github.com/Zareck521/Zareck521/assets/144555248/39d57418-1218-48bb-80cf-5940fc093426)
+
+
 Front End Web Devleoper
 -----------------------
 
